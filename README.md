@@ -1,4 +1,4 @@
-### Auto Nmap ###
+# Auto Nmap
 
 **Auto Nmap** is a Python script that automates different types of Nmap scans, saving the results into custom-named files.
 
