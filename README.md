@@ -26,7 +26,7 @@ To run this script, you need:
 
 1. Clone the repository:
 
-   git clone https://github.com/Saitt01/Python-Script-CyberSec.git
+   git clone https://github.com/Saitt01/autoNmap.git
 
 
 2. Navigate to the project directory:
